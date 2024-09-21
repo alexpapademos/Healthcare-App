@@ -1,0 +1,18 @@
+.example-icon {
+    padding: 0 14px;
+  }
+  
+  .example-spacer {
+    flex: 1 1 auto;
+  }
+  
+  .header-section {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .header-section:hover {
+    color: white;
+    text-decoration: none;
+  }
+  
